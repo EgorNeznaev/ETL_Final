@@ -1,3 +1,5 @@
+Ссылка на датасет: https://www.kaggle.com/datasets/nafiulislam490/bank-transaction-fraud-detection-dataset/data
+
 <img width="1207" height="544" alt="image" src="https://github.com/user-attachments/assets/a6067959-e404-4602-b6e2-7f896d1e9fb2" />
 
 <img width="537" height="136" alt="image" src="https://github.com/user-attachments/assets/c41ccd62-1b5e-4889-94c0-615bc0c198eb" />
